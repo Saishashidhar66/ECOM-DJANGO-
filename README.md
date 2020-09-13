@@ -10,6 +10,11 @@
 
 ![](Screenshot%20(120).png)
 
+<h2>PRODUCT PAGE OF ECOM WEBPAGE(YOU CAN UPDATE DELETE THE PRODUCT) </h2>
+
+![](Screenshot%20(127).png)
+
+
 <h2>CONTACT PAGE OF ECOM WEBPAGE </h2>
 
 ![](Screenshot%20(121).png)
